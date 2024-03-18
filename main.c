@@ -3,7 +3,8 @@
 
 int main()
 {
-    int i, n;
+    int i,n,buf;
+
     printf("Input n = ");
     scanf("%d", &n);
 
